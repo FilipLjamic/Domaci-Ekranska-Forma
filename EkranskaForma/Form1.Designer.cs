@@ -98,105 +98,112 @@ namespace EkranskaForma
             this.txt_id.Enabled = false;
             this.txt_id.Location = new System.Drawing.Point(72, 12);
             this.txt_id.Name = "txt_id";
-            this.txt_id.Size = new System.Drawing.Size(100, 20);
+            this.txt_id.Size = new System.Drawing.Size(172, 20);
             this.txt_id.TabIndex = 5;
             // 
             // txt_naziv
             // 
             this.txt_naziv.Location = new System.Drawing.Point(72, 38);
             this.txt_naziv.Name = "txt_naziv";
-            this.txt_naziv.Size = new System.Drawing.Size(100, 20);
+            this.txt_naziv.Size = new System.Drawing.Size(172, 20);
             this.txt_naziv.TabIndex = 6;
             // 
             // txt_izvodjac
             // 
             this.txt_izvodjac.Location = new System.Drawing.Point(72, 64);
             this.txt_izvodjac.Name = "txt_izvodjac";
-            this.txt_izvodjac.Size = new System.Drawing.Size(100, 20);
+            this.txt_izvodjac.Size = new System.Drawing.Size(172, 20);
             this.txt_izvodjac.TabIndex = 7;
             // 
             // txt_trajanje
             // 
             this.txt_trajanje.Location = new System.Drawing.Point(72, 90);
             this.txt_trajanje.Name = "txt_trajanje";
-            this.txt_trajanje.Size = new System.Drawing.Size(100, 20);
+            this.txt_trajanje.Size = new System.Drawing.Size(172, 20);
             this.txt_trajanje.TabIndex = 8;
             // 
             // txt_jezik
             // 
             this.txt_jezik.Location = new System.Drawing.Point(72, 116);
             this.txt_jezik.Name = "txt_jezik";
-            this.txt_jezik.Size = new System.Drawing.Size(100, 20);
+            this.txt_jezik.Size = new System.Drawing.Size(172, 20);
             this.txt_jezik.TabIndex = 9;
             // 
             // btn_prev
             // 
             this.btn_prev.Location = new System.Drawing.Point(72, 142);
             this.btn_prev.Name = "btn_prev";
-            this.btn_prev.Size = new System.Drawing.Size(47, 23);
+            this.btn_prev.Size = new System.Drawing.Size(82, 23);
             this.btn_prev.TabIndex = 10;
             this.btn_prev.Text = "<";
             this.btn_prev.UseVisualStyleBackColor = true;
+            this.btn_prev.Click += new System.EventHandler(this.btn_prev_Click);
             // 
             // btn_next
             // 
-            this.btn_next.Location = new System.Drawing.Point(125, 142);
+            this.btn_next.Location = new System.Drawing.Point(162, 142);
             this.btn_next.Name = "btn_next";
-            this.btn_next.Size = new System.Drawing.Size(47, 23);
+            this.btn_next.Size = new System.Drawing.Size(82, 23);
             this.btn_next.TabIndex = 11;
             this.btn_next.Text = ">";
             this.btn_next.UseVisualStyleBackColor = true;
+            this.btn_next.Click += new System.EventHandler(this.btn_next_Click);
             // 
             // btn_frst
             // 
             this.btn_frst.Location = new System.Drawing.Point(72, 171);
             this.btn_frst.Name = "btn_frst";
-            this.btn_frst.Size = new System.Drawing.Size(47, 23);
+            this.btn_frst.Size = new System.Drawing.Size(82, 23);
             this.btn_frst.TabIndex = 12;
             this.btn_frst.Text = "<<";
             this.btn_frst.UseVisualStyleBackColor = true;
+            this.btn_frst.Click += new System.EventHandler(this.btn_frst_Click);
             // 
             // btn_last
             // 
-            this.btn_last.Location = new System.Drawing.Point(125, 171);
+            this.btn_last.Location = new System.Drawing.Point(162, 171);
             this.btn_last.Name = "btn_last";
-            this.btn_last.Size = new System.Drawing.Size(47, 23);
+            this.btn_last.Size = new System.Drawing.Size(82, 23);
             this.btn_last.TabIndex = 13;
             this.btn_last.Text = ">>";
             this.btn_last.UseVisualStyleBackColor = true;
+            this.btn_last.Click += new System.EventHandler(this.btn_last_Click);
             // 
             // btn_add
             // 
             this.btn_add.Location = new System.Drawing.Point(72, 200);
             this.btn_add.Name = "btn_add";
-            this.btn_add.Size = new System.Drawing.Size(100, 23);
+            this.btn_add.Size = new System.Drawing.Size(172, 23);
             this.btn_add.TabIndex = 14;
             this.btn_add.Text = "Dodaj";
             this.btn_add.UseVisualStyleBackColor = true;
+            this.btn_add.Click += new System.EventHandler(this.btn_add_Click);
             // 
             // btn_edt
             // 
             this.btn_edt.Location = new System.Drawing.Point(72, 229);
             this.btn_edt.Name = "btn_edt";
-            this.btn_edt.Size = new System.Drawing.Size(100, 23);
+            this.btn_edt.Size = new System.Drawing.Size(172, 23);
             this.btn_edt.TabIndex = 15;
             this.btn_edt.Text = "Izmeni";
             this.btn_edt.UseVisualStyleBackColor = true;
+            this.btn_edt.Click += new System.EventHandler(this.btn_edt_Click);
             // 
             // btn_del
             // 
             this.btn_del.Location = new System.Drawing.Point(72, 258);
             this.btn_del.Name = "btn_del";
-            this.btn_del.Size = new System.Drawing.Size(100, 23);
+            this.btn_del.Size = new System.Drawing.Size(172, 23);
             this.btn_del.TabIndex = 16;
             this.btn_del.Text = "Brisi";
             this.btn_del.UseVisualStyleBackColor = true;
+            this.btn_del.Click += new System.EventHandler(this.btn_del_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(195, 292);
+            this.ClientSize = new System.Drawing.Size(275, 299);
             this.Controls.Add(this.btn_del);
             this.Controls.Add(this.btn_edt);
             this.Controls.Add(this.btn_add);
