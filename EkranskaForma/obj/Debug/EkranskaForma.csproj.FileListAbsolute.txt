@@ -1,0 +1,10 @@
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\bin\Debug\EkranskaForma.exe.config
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\bin\Debug\EkranskaForma.exe
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\bin\Debug\EkranskaForma.pdb
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\obj\Debug\EkranskaForma.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\obj\Debug\EkranskaForma.Form1.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\obj\Debug\EkranskaForma.Properties.Resources.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\obj\Debug\EkranskaForma.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\obj\Debug\EkranskaForma.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\obj\Debug\EkranskaForma.exe
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\Domaci-Ekranska-Forma\EkranskaForma\obj\Debug\EkranskaForma.pdb
